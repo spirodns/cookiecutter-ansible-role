@@ -1,0 +1,15 @@
+{
+    "role_name": "role_name",
+    "contributor_full_name": "Spyridon Danousis",
+    "email": "sdanousis@gmail.com",
+    "author": "Spyridon Danousis",
+    "description": "role description",
+    "company": "Spyridon Danousis",
+    "min_ansible_version": 2.8,
+    "allow_duplicates": "no",
+    "release_date": "2021-01-30",
+    "year": "2021",
+    "version": "1.0.0",
+    "repo_name": "ansible-role-xxx",
+    "github_user": "stackresilient"
+}
